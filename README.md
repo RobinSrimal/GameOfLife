@@ -7,7 +7,7 @@ requirements.txt
 either "flat" or "ball" when instantiating LifeGame. Also you can customize the number of rows and columns
 and the cell_size. 
 
-3. The game initializes with a random state. You can pause and unpause the game by pressing "s" on the keyboard.
+3. The game initializes with a random state. Pause and unpause the game by pressing "s" on the keyboard.
 
 4. When the game is paused you can 
 
@@ -17,10 +17,10 @@ and the cell_size.
 
     4.3. Create a new random distribution by pressing "r".
 
-5. You can quit the game by pressing "q".
+5. Quit the game by pressing "q".
 
 6. Cells change their color with their age. Currently code is commented out in both grids that gives each cell 
-am increasing  chance to die the older they get. 
+an increasing  chance to die the older they get. 
 
 
 
