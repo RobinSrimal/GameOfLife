@@ -1,6 +1,6 @@
 # GameOfLife
 
-![screenshot](GameOfLife/screenshot.png)
+![screenshot](https://github.com/RobinSrimal/GameOfLife/blob/master/images/screenshot.png)
 
 
 1. To run the Game of Life you need pygame installed. Best way would be to create a pipenv with the 
